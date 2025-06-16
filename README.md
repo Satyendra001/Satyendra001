@@ -16,3 +16,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyendra001&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<br><br>
+![](https://komarev.com/ghpvc/?username=Satyendra001&color=orange)
