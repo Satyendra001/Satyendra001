@@ -9,12 +9,11 @@
 📫 &nbsp; Reach out to me on [LinkedIN](https://www.linkedin.com/in/satyendra-singh1).\
 <img src="assets/intense_code.gif" align="right"/>
 
-
+![](https://komarev.com/ghpvc/?username=Satyendra001&color=orange)
+<br><br>
 <p align="center">
 <a href="https://github.com/Satyendra001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyendra001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyendra001&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<br><br>
-![](https://komarev.com/ghpvc/?username=Satyendra001&color=orange)
